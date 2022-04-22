@@ -1,12 +1,4 @@
-.DS_Store
-
-# Compiled site
-_site
-.jekyll-cache/
-
-# Sass garbage
+/_site
+*.gem
 .sass-cache
-
-# Bundler
-.bundle/
-vendor/
+Gemfile.lock
